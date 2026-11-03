@@ -1,0 +1,15 @@
+# Vivado generated files
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.hw/
+*.ip_user_files/
+.Xil/
+*.jou
+*.log
+# Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
